@@ -1,0 +1,19 @@
+{
+  "name": "master_repo",
+  "version": "1.0.0",
+  "description": "\"# master_repo\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BalaBaskarfrl/master_repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BalaBaskarfrl/master_repo/issues"
+  },
+  "homepage": "https://github.com/BalaBaskarfrl/master_repo#readme"
+}
